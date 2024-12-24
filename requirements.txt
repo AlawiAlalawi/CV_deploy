@@ -2,6 +2,5 @@ streamlit
 ultralytics
 opencv-python-headless
 numpy
-PIL
 tempfile
 cv2
